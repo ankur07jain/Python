@@ -16,3 +16,5 @@ then project based learning
 https://github.com/Avik-Jain/100-Days-Of-ML-Code![image](https://user-images.githubusercontent.com/121412869/209557786-04be6224-38dc-486b-99cc-bc22f08fd0f6.png)
 
 
+https://www.kaggle.com/code/niklasdonges/end-to-end-project-with-python/notebook
+
